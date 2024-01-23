@@ -1,0 +1,162 @@
+intent,question,answer
+0,What is my name?,x
+0,What constitute my name?,x
+0,Is name?,x
+0,Is my?,x
+0,What my is? name,x
+0,W(haRt is my ndamne?,x
+0,Do you know my name?,x
+0,Dress you know my name?,x
+0,Do my name?,x
+0,Do know my?,x
+0,Do you name know my?,x
+0,Do you #kno%w my NnaDme?,x
+0,Can you tell me my name?,x
+0,Keister you tell maine my name?,x
+0,Can you name?,x
+0,You tell my name?,x
+0,Can tell you me my name?,x
+0,Can you t#e#ll me my naDmOe?,x
+0,What am I called?,x
+0,What be I call?,x
+0,What I?,x
+0,What am?,x
+0,What am I called?,x
+0,WGha*t am I call$e3d?,x
+0,Could you tell me my name?,x
+0,You me my name?,x
+0,You tell name?,x
+0,You could me my tell name?,x
+0,CoulKd you Utuell me my n(amge?,x
+1,I would like to make a travel booking,x
+1,Would I to like make a booking travel,x
+1,I want to make a travel booking,x
+1,One would care to make a travel booking,x
+1,Would like to make booking,x
+1,Like I would make to a travel booking,x
+1,I want to book a trip,x
+1,One desire to book a trip,x
+1,Want to book a,x
+1,Want I book to a trip,x
+1,Can you make a travel booking for me,x
+1,Can you make a travel engagement for me,x
+1,Can you make a travel booking me for,x
+1,Can you help me in making a  booking,x
+1,Can you facilitate me in make a engagement,x
+1,Can you in a booking,x
+1,Can help making a booking,x
+1,Can you tell me how to make a travel booking,x
+1,You tell me to make a booking,x
+1,Can me how to a travel booking,x
+1,Can you tell me to how make a travel booking,x
+1,I want to make a booking,x
+1,I make a booking,x
+1,I want a booking,x
+1,Want I to make booking a,x
+1,How do I make a booking,x
+1,How make out I form a booking,x
+1,Do how I make booking a,x
+2,What do you do, I can answer questions related to travel and help you book a flight.
+2,What can you do, I can answer questions related to travel and help you book a flight.
+2,What are functions you do, I can answer questions related to travel and help you book a flight.
+2,What are your functionality, I can answer questions related to travel and help you book a flight.
+2,How is your day going,My day is going Great!
+2,How is going?,My day is going Great!
+2,How is your?,My day is going Great!
+2,Is how your day? going,My day is going Great!
+2,How is yo6u1r day &go*ing?,My day is going Great!
+2,How have you been,I have been Great!
+2,How have you follow?,I have been Great!
+2,How been?,I have been Great!
+2,How you?,I have been Great!
+2,How have you been?,I have been Great!
+2,How qhaove you pbDeen?,I have been Great!
+2,How is everything,Everything is going great!
+2,Is everything,Everything is going great!
+2,Is how everything,Everything is going great!
+2,How is ev!erlytghing,Everything is going great!
+2,howdy,Greetings!
+2,hi hello,Greetings!
+2,hi Hello,Greetings!
+2,hi hello,Greetings!
+2,hi hello,Greetings!
+2,Hi,There!
+2,Hi,There!
+2,Hi,There!
+2,Hi,There!
+2,Hi,There!
+2,Hi,There!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,howdy,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,Hello,Greetings!
+2,hi,Greetings!
+2,h4el+lo,Greetings!
+2,how are you?,I am Doing Great ! Thanks for asking.
+2,How are?,I am Doing Great ! Thanks for asking.
+2,how? are you,I am Doing Great ! Thanks for asking.
+3,what is the official languages of canada?, The official languages of Canada are French and English
+3,What is the largest country in the world?,Russia is the largest country
+3,What is the capital city of Egypt?,Cairo is the capital of Egypt
+3,what are the most visited cities in the world?,Honk kong
+3,what are the most visited countries in the world? France is the most visited country in the world.
+3,What are the cheapest countries to travel in? South east asian countries are the cheapest countries to travel in.
+3,What are the most expensive countries to travel in?,European countries are considered the most expensive to travel to
+3,What is the capital of Finland?,Helsinki is the capital of Finland
+3,What currency is used in Brazil? the Brazilian Real is used as the official currency of Brazil
+3,What time zone is Japan in?,The Japan Standard Time(JST) is the time zone in Japan and it is 9 hours ahead of London.
+3,what are the two airports in rome?,Fiumicino Airport (FCO) and Ciampino Airport (CIA) are the two airports in Rome
+3,what is the main airport in Sweden?,Stockholm Arlanda Airport is the main airport in Sweden
+3,which EU country does not use the euro as its currency?,Bulgaria
+3,Where would you find the Serengeti National Park?,In Tanzania
+3,Which is the largest Caribbean Island?,Cuba is the largest Caribbean island.
+3,Which province is Niagara Falls in Canada?,Ontario province is where Niagara falls is located in
+3,What is the Capital City of Turkey?,Ankara
+3,What is the South East Asia Backpacking Route also known as?,Banana Pancake Trail
+3,What Sea is to the North of Turkey?,the Black Sea
+3,London’s Winter Wonderland happens in which park?,Hyde Park
+3,Is English Ghana's official language?,Yes the official language of Ghana is English
+3,What is the capital of singapore,Singapore city
+3,Is Uruguay located in South America? Yes, The second smallest country on the continent
+3,What is the official language of Romania?,Romanian
+3,What is the capital of india?,New Delhi
+4,Can you aid me
+4,You help me
+4,You help me
+4,Can you help me
+4,Can you ihe+lp me
+4,4,Help
+4,Can you help me
+4,help me please
+4,please help me
+4,can you assist me
+4,assist me please
+4,I need help
+4,Support needed.
+4,I'm seeking help
+4,help me
+4,what can you do
+4,what can you do
+4,what do you do
+4,What capabilities do you have?
+4,What are your functionalities?
+4,Can you describe your features?
+4,What tasks are you able to perform?
+4,Tell me about your features.
+4,Describe your range of functions.
+4,what posterior you do
+4,what you
+4,can do
+4,Can what do you
+4,whhaQt can you do
